@@ -12,10 +12,10 @@
 ## 1. PARTIES
 
 **Disclosing Party**: Educational Institution  
-**Receiving Party**: [Name of Individual]  
+**Receiving Party**: Vidyalankar institute of Technology
 **Project**: Queue Factor Visualizer - Educational Neural Network Task Scheduling Platform  
 **Project Lead**: Harsh Jain (B54)  
-**Date**: [Current Date]
+
 
 ---
 
