@@ -554,7 +554,6 @@ For educational content or curriculum integration:
 This software is part of a **confidential college research project** and is subject to strict usage restrictions. Please review the following legal documents:
 
 - **[LICENSE.md](LICENSE.md)**: Detailed usage restrictions and permissions
-- **[NDA.md](NDA.md)**: Non-disclosure agreement for contributors
 - **[CONTRIBUTING.md](CONTRIBUTING.md)**: Contribution guidelines and restrictions
 
 ### Usage Restrictions
