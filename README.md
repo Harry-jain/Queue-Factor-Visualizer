@@ -182,7 +182,7 @@ graph LR
 
 1. **Download the Project**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Harry-jain/Queue-Factor-Visualizer.git
    cd queue-factor-visualizer
    ```
 
