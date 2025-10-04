@@ -1,0 +1,37 @@
+{
+  "name": "Queue Factor Visualizer",
+  "description": "An interactive educational tool that visualizes how computational tasks are queued, scheduled, and processed in neural networks by CPUs and GPUs, making complex machine learning concepts accessible.",
+  "version": "1.0.0",
+  "author": "Harsh Jain (B54) and Research Team",
+  "institution": "College Research Project",
+  "projectType": "Educational Research",
+  "confidentiality": "Restricted Access",
+  "license": "Confidential - Educational Use Only",
+  "requestFramePermissions": [],
+  "educationalObjectives": [
+    "Understand task scheduling in neural networks",
+    "Compare CPU vs GPU processing architectures",
+    "Learn scheduling algorithms (FIFO, LIFO, SJF)",
+    "Analyze performance metrics and optimization",
+    "Apply knowledge through interactive assessment"
+  ],
+  "targetAudience": [
+    "Computer Science Students",
+    "Machine Learning Enthusiasts",
+    "Computer Architecture Students",
+    "Educators and Instructors"
+  ],
+  "technicalRequirements": {
+    "browser": "Chrome 90+, Firefox 88+, Safari 14+, Edge 90+",
+    "device": "Desktop/Laptop (Mobile not supported)",
+    "server": "Local web server required",
+    "network": "Institution-controlled network preferred"
+  },
+  "securityFeatures": [
+    "Mobile device blocking",
+    "Local processing only",
+    "No external API calls",
+    "Confidentiality controls",
+    "Access logging"
+  ]
+}

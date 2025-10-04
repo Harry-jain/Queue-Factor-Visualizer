@@ -1,0 +1,74 @@
+{
+  "name": "queue-factor-visualizer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An interactive educational tool for visualizing neural network task scheduling in CPUs and GPUs",
+  "author": "Harsh Jain (B54) and Research Team",
+  "institution": "College Research Project",
+  "license": "CONFIDENTIAL - Educational Use Only",
+  "confidentiality": "Restricted Access",
+  "keywords": [
+    "education",
+    "neural-networks",
+    "task-scheduling",
+    "cpu-gpu",
+    "visualization",
+    "machine-learning",
+    "computer-architecture"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "confidential",
+    "private": true
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "python -m http.server 8000",
+    "serve-node": "npx http-server -p 8000",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0",
+    "eslint": "^8.57.0",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "browserslist": [
+    "Chrome >= 90",
+    "Firefox >= 88",
+    "Safari >= 14",
+    "Edge >= 90"
+  ],
+  "educationalInfo": {
+    "targetAudience": "Computer Science Students",
+    "learningLevel": "Intermediate",
+    "subjectArea": "Machine Learning & Computer Architecture",
+    "duration": "Self-paced",
+    "prerequisites": "Basic programming knowledge"
+  },
+  "security": {
+    "confidentiality": "High",
+    "accessControl": "Restricted",
+    "dataHandling": "Local Only",
+    "networkSecurity": "Institution Controlled"
+  }
+}
